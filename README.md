@@ -126,3 +126,4 @@ If you find this project useful, please give it a ⭐ on GitHub!
 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+© 2026 Bardhyl
